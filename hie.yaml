@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "headlens-optics:lib"
+
+    - path: "./test"
+      component: "headlens-optics:test:headlens-optics-test"
